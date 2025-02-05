@@ -2,7 +2,6 @@
 layout: post
 title: "SetUp Jekyll Blog"
 date: 2025-02-06
-categories: blog
 author: "Tanushree Shaw"
 ---
 # How I Set Up My Jekyll Blog
