@@ -1,0 +1,5 @@
+title: "My Blog"
+description: "Sharing how I set up Jekyll Blog."
+baseurl: "/blogs"  
+url: "https://tsdebug.github.io"  
+theme: "jekyll-theme-cayman"
