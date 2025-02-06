@@ -2,7 +2,7 @@ title: "My Blog"
 description: "Sharing how I set up Jekyll Blog."
 baseurl: "/blogs"  
 url: "https://tsdebug.github.io"  
-theme: "jekyll-theme-tactile"
+theme: "jekyll-theme-minima"
 
 # Custom permalink structure to remove date from URLs
 permalink: "/:title/"
