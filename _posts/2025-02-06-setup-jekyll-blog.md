@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "SetUp Jekyll Blog"
 date: 2025-02-06
 author: "Tanushree Shaw"
