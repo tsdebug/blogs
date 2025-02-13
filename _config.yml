@@ -1,5 +1,6 @@
 title: "My Blog"
-description: "Sharing how I set up Jekyll Blog."
+description: "Breaking down web development, SEO, and full-stack concepts into easy-to-understand blogs. Learn, build, and grow with me!"  
+
 baseurl: "/blogs"  
 url: "https://tsdebug.github.io"  
 theme: minima
