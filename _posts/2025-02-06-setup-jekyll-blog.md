@@ -2,6 +2,7 @@
 layout: default
 title: "SetUp Jekyll Blog"
 date: 2025-02-06
+descrption: "This post is about how I was able to set up my Jekyll blog using Jekyll + GitHub-pages. It's from a perception of a person new to Jekyll."
 author: "Tanushree Shaw"
 ---
 # How I Set Up My Jekyll Blog
