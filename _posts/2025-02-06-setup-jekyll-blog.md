@@ -7,6 +7,8 @@ author: "Tanushree Shaw"
 ---
 # How I Set Up My Jekyll Blog
 
+![GitHub + Jekyll](/blogs/assets/GitHub+Jekyll.png)
+
 ## Why I Chose Jekyll + GitHub Pages
 
 When I decided to add a blog to my portfolio, I wanted something **free, and easy to manage**. Jekyll + GitHub Pages turned out to be the perfect combo because:
