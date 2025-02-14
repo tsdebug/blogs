@@ -7,6 +7,8 @@ author: "Tanushree Shaw"
 ---
 # From Hesitant to Hands-On: My Full-Stack Internship Story
 
+![Internship Journey](/blogs/assets/Internship%20journey.png)
+
 # Introduction
 When I first dipped my toes into web development, I didn’t really know what I was doing. My coding journey started with a lot of copy-pasting, tweaking things randomly, and hoping it worked. Debugging? A nightmare. Understanding how everything connected? Even worse. But as time passed, those confusing lines of code slowly started making sense.
 
@@ -42,6 +44,9 @@ I also worked on improving content visuals using **Canva**, ensuring brand consi
 **What I learned:** Web development isn’t just about writing code—it’s about making things user-friendly, searchable, and visually appealing.
 
 ## Challenges, Growth & What’s Next?
+
+![Internship](/blogs/assets/Internship.png)
+
 ### Challenges I Faced:
 - Setting up **Jekyll** for my portfolio blog.
 - Understanding **SEO** beyond just keywords—optimizing content for search engines and real users.

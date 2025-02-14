@@ -22,14 +22,20 @@ When I decided to add a blog to my portfolio, I wanted something **free, and eas
 ### 1. Created a New Repository
 I created a new **GitHub repository** named `blogs` to store all my blog content.
 
+![Create new repo](/blogs/assets/Create%20new%20repo.png)
+
 ### 2. Enabled GitHub Pages
 I went to **Settings → Pages**, set the **branch to deploy**, and GitHub Pages (which plays a major role) was activated.
+
+![Enable GitHub Pages](/blogs/assets/Set%20github%20pages.png)
 
 ### 3. Added Jekyll Setup
 Instead of running Jekyll locally, I used **GitHub’s built-in Jekyll processing** by:
 1. Adding a `_config.yml` file to configure the site.
 2. Creating a `.md` file, naming it by following the pattern **YYYY-MM-DD-title-of-your-post.md**.
 3. Setting up a `_posts` folder to store my blog posts.
+
+![Files For Setup](/blogs/assets/Files%20for%20blog.png)
 
 ### 4. Wrote My First Blog in Markdown
 Jekyll uses **Markdown files** for posts, so I created a `.md` file in `_posts/` following this format:
