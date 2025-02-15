@@ -71,4 +71,3 @@ To anyone on a similar journey—keep pushing. Every line of code you write, eve
 
 ## Read on 
 - [SetUp Jekyll Blog](/blogs/setup-jekyll-blog/)
-
