@@ -68,3 +68,7 @@ A year ago, if you had told me I’d be managing websites, writing SEO blogs, an
 Web development is less about how fast you learn and more about how persistent you are. Some days, you’ll feel like you’re making huge progress; other days, you’ll want to throw your laptop out the window. And that’s okay.
 
 To anyone on a similar journey—keep pushing. Every line of code you write, every bug you fix, every moment of frustration—it all adds up. One day, you’ll look back and realize how far you’ve come.
+
+## Read on 
+- [SetUp Jekyll Blog](blogs/setup-jekyll-blog/)
+
