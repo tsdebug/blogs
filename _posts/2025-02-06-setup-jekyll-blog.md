@@ -72,3 +72,8 @@ This is my first blog post using Jekyll and GitHub Pages!
 
 ---
 That’s how I set up my Jekyll blog **directly from GitHub**! If you're doing the same, just experiment and tweak things as you go. 
+
+## Read On  
+- [Internship Journey](/blogs/internship-journey/)
+
+
