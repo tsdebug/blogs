@@ -138,7 +138,7 @@ When a creator uploads a video on **YouTube**:
 
 ![Developer workflow](/blogs/assets/developer%20workflow.png)
 
----
+
 
 ## Conclusion
 
