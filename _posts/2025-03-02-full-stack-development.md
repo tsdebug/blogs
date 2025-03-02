@@ -24,7 +24,6 @@ This detailed roadmap can help with that. This guide will take you through every
 
 We’re up for a hell of a ride. Hang tight, and follow through!
 
----
 
 ## Understanding Full Stack Development
 
@@ -42,7 +41,6 @@ What does that mean? What exactly are frontend and backend? And what skills and 
 
 Don’t worry—I’ve got you. Let’s break it all down, step by step.
 
----
 
 ## The Ultimate Trio: Frontend, Backend & DevOps
 
@@ -69,7 +67,7 @@ When you visit **Netflix**, you see the homepage with the movie thumbnails, the 
 
 ![Frontend Development](/blogs/assets/frontend.png)
 
----
+
 
 ### **Backend (The Brain & Logic)**
 While the frontend is the face, the backend is the brain. This is the part that does all the work in the background of the frontend. It's what makes an app function properly by handling data, security, and logic behind the scenes.
@@ -92,9 +90,9 @@ Think about **Instagram**. When you upload a picture, the backend:
 - Sends notifications to your followers.
 - Handles likes and comments in real time.
 
-![Backend Development](/blogs/assets/backend.png)
+![Backend Development](/blogs/assets/Backend.png)
 
----
+
 
 ### **DevOps & Deployment (Bringing It to Life)**
 Creating a styled and functional system isn’t enough; we need to launch it, maintain it, and keep it running without issues too, right? That’s where DevOps & Deployment comes in!
@@ -119,7 +117,7 @@ When a creator uploads a video on **YouTube**:
 
 ![DevOps & Deployment](/blogs/assets/DevOps%20Process.png)
 
----
+
 
 ## Essential Tools & Technologies
 - **Version Control**: Git & GitHub – Track changes, collaborate, and manage your codebase.
@@ -129,7 +127,7 @@ When a creator uploads a video on **YouTube**:
 
 ![Essential Tools & Technologies](/blogs/assets/Essential%20tools%20for%20full%20stack%20dev.png)
 
----
+
 
 ## How to Get Started with Full Stack Development
 1. **Learn the Basics** – Start with HTML, CSS, JavaScript for frontend. Pick a backend language like Node.js or Python and understand databases.
@@ -144,6 +142,7 @@ When a creator uploads a video on **YouTube**:
 
 ## Conclusion
 
-![Full stack development areas](/blogs/assets/Full-stack%20dev%20areas.png)
 
 Full Stack Development isn’t just a skill—it’s a game-changer. The key is to learn smart, build fast, and stay adaptable. Start small, practice consistently, and refine your skills. Whether you aim to work at top tech companies or launch your own projects, Full Stack Development gives you the power to create, innovate, and stand out.
+
+![Full stack development areas](/blogs/assets/Full-stack%20dev%20areas.png)
