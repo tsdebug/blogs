@@ -9,7 +9,7 @@ theme: minima
 permalink: "/:title/"
 
 # Navigation links
-nav:
+navigation:
   - title: "TS Blog"
     url: "https://tsdebug.github.io"
   - title: "Blog Home"
