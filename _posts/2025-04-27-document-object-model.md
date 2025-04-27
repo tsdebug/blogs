@@ -13,7 +13,7 @@ When I got into Web development I thought that HTML and CSS worked wonders. It w
 
 Let me give you a dive into my journey of finding JS and DOM.
 
----
+
 
 ## What’s DOM ?
 
@@ -23,7 +23,7 @@ You insert so many things into your web page like headings, divs, images, animat
 
 **Moral of the story** is that you create a web page using HTML, style it with CSS then the browser takes the raw HTML, reads, analyses and then structures it as a tree with elements of the HTML file as the nodes and it’s done in such a way that it makes sense for rendering and interaction. This process is known as **Parsing** and this structured representation of the entire document is known as a **Document Object Model (DOM)**. Now that the framework is done you can traverse through the tree and also manipulate it in real time using JavaScript. 
 
----
+
 
 ## How Can You See the DOM of Any Website?
 
@@ -41,7 +41,7 @@ What you’re seeing there might look like regular HTML, but it’s actually the
 - Change text, colors, styles (just for fun !)
 - Even delete or add stuff right there
 
----
+
 
 ## What Does the DOM Look Like ?
 
@@ -67,7 +67,7 @@ It’s just like a **family tree** or a **data structure tree** — each element
 
 It’s the browser’s version of your web page.
 
----
+
 
 ## DOM & Data Structure
 
@@ -87,7 +87,7 @@ Each element of your page (HTML) becomes the node in this tree:
 
 Though the literal tree is not what you get to see as the DOM, it's still the browser's version of the tree and thus how you walk through it matters.
 
----
+
 
 # Why Bother Learning the DOM?
 
@@ -101,25 +101,25 @@ Here’s why learning the DOM matters:
 - Most modern frameworks(React, etc) are built around the DOM.
 - You can react to the users in real time like respond to scrolls, show or hide things, etc.
 
----
+
 
 ## HTML & CSS Without JavaScript
 
 HTML and CSS together do a fine job in designing a beautiful web page, with buttons, links, pretty layouts, etc but what it can’t compensate for is the dynamic feature. The web page created using HTML and CSS can be as beautiful as possible with everything in it but it will be static and not very interactive for the users. It’s like a beautiful poster that once printed can’t be modified. To make the web page dynamic and interactive we need the third component that’d be JavaScript.
 
----
+
 
 ## How JavaScript Interacts With The DOM?
 
 When the browser is done creating a structured representation for a HTML or XML code i.e. the Document Object Model, we need a medium to interact with it and for that we have JavaScript. JS acts as an interface to interact with the DOM and also the magic stick that allows you to make modifications to the DOM in real time. Through JavaScript you can traverse through the entire tree (the structured representation) and manipulate it too.
 
----
+
 
 ## Does DOM Exist Without JavaScript?
 
 While learning all these I was really curious about what happens to DOM if there exists no JavaScript? The answer to it actually makes sense. Actually the browser reads the HTML file, analyses and structures it regardless of the existence of the JavaScript. JS is just the way to interact with the DOM, their existence is not dependent on each other though. The browser creates a DOM for all HTML and XML files even if there’s no JavaScript to interact with it, it just sits there.
 
----
+
 
 ## How JS Interacts With the DOM?
 
@@ -131,11 +131,11 @@ document.querySelector("h1").textContent = "Hello!";
 ```
 What this does is - it finds `<h1>` element in the DOM and changes its text. It doesn’t affect the HTML file itself but just changes the way the browser sees it that too in real time.
 
----
+
 
 ## Common DOM Actions
 
-![DOM](/blogs//assets/actions%20.png)
+![DOM](/blogs/assets/actions.png)
 
 Some common actions that you can perform by using JavaScript to interact with the DOM are:
 - Change text or images
@@ -146,7 +146,7 @@ Some common actions that you can perform by using JavaScript to interact with th
 
 And you can do all these in real time, without affecting the HTML file.
 
----
+
 
 ## Final Verdict
 
