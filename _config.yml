@@ -8,3 +8,9 @@ theme: minima
 # Custom permalink structure to remove date from URLs
 permalink: "/:title/"
 
+# Navigation links
+nav:
+  - title: "TS Blog"
+    url: "https://tsdebug.github.io"
+  - title: "Blog Home"
+    url: "/blogs"
